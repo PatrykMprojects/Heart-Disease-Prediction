@@ -19,7 +19,7 @@ pd.set_option('display.max_columns', None)  # Display all columns
 pd.set_option('display.max_rows', None)  # Display all rows
 pd.set_option('display.width', None)  # Set the display width to fit the entire table
 
-dataframe = pd.read_csv('../StreamlitHeartDisease/heart.csv')
+dataframe = pd.read_csv('path_to_dataset')
 df = dataframe.copy()
 # display(df)
 
