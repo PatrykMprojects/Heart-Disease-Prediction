@@ -14,9 +14,9 @@ import streamlit as st
 
 #load model and test dataset
 
-X_test = pd.read_csv('C:/Users\patry/PycharmProjects\StreamlitHeartDisease/test.csv')
+X_test = pd.read_csv('path_to_your_saved_test_data')
 #load model
-with open('C:/Users\patry/PycharmProjects\StreamlitHeartDisease\models\modelTab.pkl', 'rb') as file:
+with open('Path_to_your_saved_model', 'rb') as file:
     model = pickle.load(file)
 
 print(model.predict(X_test))
