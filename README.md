@@ -1,4 +1,6 @@
 # Heart-disease-prediction
+Due to the size of the Heart_Disease_Prediction_comparison file, it might not show in GitHub therefore it is advised to download the file and load it into Collab or any other Python file reader.  
+
 This project comprehensively evaluates machine learning algorithms for classifying whether a patient has heart disease. Additionally, I deploy the best-performing model into a Streamlit web application, allowing for seamless interaction and accessibility.
 
 The main objective of this project is to combine the TabPFN transformer with machine learning models using ensemble methods for heart disease prediction. The performance of 14 algorithms were tested on the three different-sized datasets: Statlog with 270 observations, Cleveland dataset with 297 observations, and Merged dataset with 918 observations. The sampling techniques synthetic minority over-sampling(SMOTE) and random over-sampler (ROS) were implemented to handle the imbalance in the datasets and the grid search cross-validation method was used to find optimal hyperparameters.
