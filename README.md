@@ -24,7 +24,7 @@ When datasets were evaluated with Leave One Out Cross-validation method:
 
 ![image](https://github.com/PatrykMprojects/Heart-disease-prediction-/assets/78304814/21b0cafa-a00b-43cd-b4f7-fb44f6f9a730)
 
-Results in the table: 
+ 
 ![image](https://github.com/PatrykMprojects/Heart-disease-prediction-/assets/78304814/9be81d80-198a-436c-9475-b4617486135e)
 # TabPFN Web App for Heart Disease Prediction
 # To run Web Application: 
