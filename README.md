@@ -1,4 +1,4 @@
-# Heart-disease-prediction
+# Heart Disease Prediction
 Due to the size of the Heart_Disease_Prediction_comparison file, it might not show in GitHub therefore it is advised to download the file and load it into Collab or any other Python file reader.  
 
 This project comprehensively evaluates machine learning algorithms for classifying whether a patient has heart disease. Additionally, I deploy the best-performing model into a Streamlit web application, allowing for seamless interaction and accessibility.
